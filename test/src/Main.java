@@ -28,5 +28,6 @@ public class Main {
 //		if(i==2){
 //			System.out.println(bunks.substring((i+1)*2, bunks.length()));
 //		}
+		"我来自msm"
 	}
 }
